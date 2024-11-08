@@ -1,2 +1,3 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# Keterangan direktori
+`lib`: Berisi detail class
+`bin`: Berisi main class (Root file)
